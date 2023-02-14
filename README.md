@@ -1,2 +1,1 @@
-# Course_Henry1
-Repositorio de prueba  Modulo 2 Henry
+CREAR UN NUEVO REPOSITORIO Y CLONARLO DESDE GITHUB A MI COMPUTADORA
